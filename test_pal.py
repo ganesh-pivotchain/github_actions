@@ -6,6 +6,6 @@ def test():
 	assert pal.isPalindrome('tenet')==True
 
 def test2():
-	assert pal.isPalindrome('bla')==True
+	assert pal.isPalindrome('bla')==False
 
 
